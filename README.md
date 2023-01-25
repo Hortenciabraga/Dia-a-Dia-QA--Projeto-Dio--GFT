@@ -1,0 +1,2 @@
+# ProjetoDioQA
+Projeto - DIA A DIA DE UM QA- A PRÁTICA DE TESTES MANUAIS 
